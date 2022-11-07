@@ -1,4 +1,3 @@
-import { Button, View, Image, Text } from 'react-native';
 import styled from 'styled-components/native';
 
 const PostView = styled.View`
